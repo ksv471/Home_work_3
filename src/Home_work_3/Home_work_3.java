@@ -7,7 +7,7 @@ public class Home_work_3 {
         int [] mass7 = {2, 2, 2, 1, 2, 2, 10, 1};
         System.out.println(method_2(mass7));
         method_1(7, 3);
-        int [] mass8 = {1,2, 3, 4, 5};
+        int [] mass8 = {1,2, 3, 4, 5, 6};
         System.out.println(Arrays.toString(method_3(mass8, 2)));
 
         //Задание №1//
